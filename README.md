@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Email: kundu7337@gmail.com**
 
-- ⚡ Fun fact **I think I am hardworking**
+- ⚡ Fun fact **I think I am Alien**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
