@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Java, JavaScript,**
 
-- 📫 How to reach me **Email: kundu7337@gmail.com**
-
 - ⚡ Love **Seagull**
+
+- 📫 How to reach me **Email: kundu7337@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
