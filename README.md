@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kundu</h1>
-<h3 align="center">A passionate Programmer</h3>
+<h3 align="center">Data Nerd</h3>
 <img align="right"alt="coding"width="400"src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/amitkun02526353" target="blank"><img src="https://img.shields.io/twitter/follow/amitkun02526353?logo=twitter&style=for-the-badge" alt="amitkun02526353" /></a> </p>
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently working on **Business Ideas**
 
-- 🤝 I’m looking to collaborate on **Domain Based Project**
+- 🤝 I’m looking to impact on **Real Problems**
 
-- 💬 Ask me about **Java, JavaScript,**
+- 💬 Ask me about **SQL,PYTHON,EXCEL,TABLEAU**
 
 - ⚡ Love **Seagull**
 
