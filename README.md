@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to impact on **Real Problems**
 
-- 💬 Ask me about **SQL,PYTHON,EXCEL,TABLEAU**
+- 💬 Ask me about **SQL,PYTHON,PYSPARK,DATABRICKS,AZURE DATA FACTORY,EXCEL,TABLEAU**
 
 - ⚡ Love **Seagull**
 
